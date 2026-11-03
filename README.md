@@ -63,6 +63,6 @@ jupyter notebook LR4_Telco_visualization.ipynb
 
 ```
 .
-├── LR4_Telco_visualization.ipynb   # ноутбук с выполненными заданиями
+├── LR4_Telco_visualization(1).ipynb   # ноутбук с выполненными заданиями
 └── README.md
 ```

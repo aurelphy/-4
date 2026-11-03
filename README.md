@@ -4,7 +4,7 @@
 
 [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/blob/main/LR4_Telco_visualization.ipynb)
 
-- **Студент:** ФИО, группа 41-ИС
+- **Студент:** Руднева Вероника Васильевна, группа 41-ИС
 - **Ноутбук:** [`LR4_Telco_visualization.ipynb`](LR4_Telco_visualization.ipynb)
 
 ## Данные
@@ -45,14 +45,6 @@
 - Распределение месячного платежа двугорбое: дешёвые тарифы около 20 $ и плотная группа дорогих. Клиенты на минимальном тарифе уходят заметно реже.
 - Это связанные признаки одного профиля — «новый клиент без обязательств».
 
-## Примеры графиков
-
-![Отток по способу оплаты](images/plotly_churn_by_payment.png)
-![Отток по сроку обслуживания](images/plotly_churn_by_tenure.png)
-![Тепловая карта: тип интернета и тип договора](images/plotly_heatmap_internet_contract.png)
-![Боксплот и violin plot](images/sns_box_violin.png)
-
-Остальные графики — в папке [`images/`](images/).
 
 ## Как запустить
 
@@ -74,7 +66,5 @@ jupyter notebook LR4_Telco_visualization.ipynb
 ```
 .
 ├── LR4_Telco_visualization.ipynb   # ноутбук с выполненными заданиями
-├── requirements.txt                # зависимости
-├── images/                         # картинки графиков для README
 └── README.md
 ```

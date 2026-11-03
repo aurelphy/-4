@@ -5,7 +5,7 @@
 [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/blob/main/LR4_Telco_visualization.ipynb)
 
 - **Студент:** Руднева Вероника Васильевна, группа 41-ИС
-- **Ноутбук:** [`LR4_Telco_visualization.ipynb`](LR4_Telco_visualization.ipynb)
+- **Ноутбук:** [`LR4_Telco_visualization(1).ipynb`](LR4_Telco_visualization(1).ipynb)
 
 ## Данные
 

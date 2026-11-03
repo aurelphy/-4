@@ -2,8 +2,6 @@
 
 Практикум по дисциплине «Анализ данных»: один и тот же набор данных визуализируется в трёх библиотеках — **matplotlib**, **seaborn** и **plotly.express**. Для каждого вида сравнения метрик (частотное, покомпонентное, временное, корреляционное, распределения по группам) подбирается подходящий график, а в конце выполняются четыре задания для самостоятельной работы.
 
-[![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/blob/main/LR4_Telco_visualization.ipynb)
-
 - **Студент:** Руднева Вероника Васильевна, группа 41-ИС
 - **Ноутбук:** [`LR4_Telco_visualization(1).ipynb`](LR4_Telco_visualization(1).ipynb)
 
